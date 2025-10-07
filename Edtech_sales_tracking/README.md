@@ -50,10 +50,11 @@ Built using **Google Sheets** and **Google Looker Studio**, the system allows au
 ### 👨‍💻 About the Creator
 **AL Showaib**  
 💼 Data Analyst | Excel - Power BI - AI/ML - Python 
-📧 showaib.data@gmail.com | 🌐 [LinkedIn]((https://www.linkedin.com/in/showai/))  
+📧 showaib.data@gmail.com | 🌐 [LinkedIn](https://www.linkedin.com/in/showai/) 
 
 ---
 
 ⭐ *If you like this project, consider giving it a star on GitHub!*
+
 
 
