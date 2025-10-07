@@ -1,0 +1,271 @@
+Date,Executive,Cash In,Due,Due Collection,Total Sales,Total Cash,Transaction Mode,Sale Type,Remarks
+2025-08-01,Rafiul,2750,1291,1910,4041,4660,Card,Renewal,Due Cleared
+2025-08-01,Zawad,4671,2677,1475,7348,6146,Cash,New Admission,Promo Offer
+2025-08-01,Mahmud,2618,2909,1740,5527,4358,Cash,New Admission,Due Cleared
+2025-08-02,Rafiul,2188,3133,515,5321,2703,Bkash,Renewal,Regular Batch
+2025-08-02,Zawad,2371,1354,1830,3725,4201,Cash,Renewal,Early Payment
+2025-08-02,Mahmud,4855,2416,949,7271,5804,Cash,New Admission,Regular Batch
+2025-08-03,Rafiul,3338,3370,1387,6708,4725,Bkash,New Admission,Promo Offer
+2025-08-03,Zawad,4452,1739,1223,6191,5675,Card,New Admission,Consistent Sales
+2025-08-03,Mahmud,2064,2823,1518,4887,3582,Bkash,New Admission,Early Payment
+2025-08-04,Rafiul,3124,3470,2423,6594,5547,Cash,Renewal,Regular Batch
+2025-08-04,Zawad,4525,3600,1811,8125,6336,Card,Renewal,Regular Batch
+2025-08-04,Mahmud,2768,2384,2124,5152,4892,Cash,Renewal,Early Payment
+2025-08-05,Rafiul,3080,3204,636,6284,3716,Card,New Admission,Promo Offer
+2025-08-05,Zawad,1724,2679,2410,4403,4134,Card,New Admission,Due Cleared
+2025-08-05,Mahmud,4786,3201,1799,7987,6585,Card,Renewal,Early Payment
+2025-08-06,Rafiul,4949,1333,775,6282,5724,Bkash,New Admission,Regular Batch
+2025-08-06,Zawad,3374,2371,2194,5745,5568,Bkash,Renewal,Promo Offer
+2025-08-06,Mahmud,2945,2870,1835,5815,4780,Card,Renewal,Regular Batch
+2025-08-07,Rafiul,4081,2446,2364,6527,6445,Bkash,Renewal,Regular Batch
+2025-08-07,Zawad,4188,1094,1432,5282,5620,Card,New Admission,Regular Batch
+2025-08-07,Mahmud,2415,1608,1813,4023,4228,Card,Renewal,Due Cleared
+2025-08-08,Rafiul,4884,1753,2406,6637,7290,Cash,New Admission,Early Payment
+2025-08-08,Zawad,2615,3242,773,5857,3388,Cash,New Admission,Promo Offer
+2025-08-08,Mahmud,2299,2319,1675,4618,3974,Cash,New Admission,Promo Offer
+2025-08-09,Rafiul,3722,2643,1218,6365,4940,Card,New Admission,Returning Student
+2025-08-09,Zawad,3100,2101,742,5201,3842,Card,Renewal,Due Cleared
+2025-08-09,Mahmud,1945,3373,1764,5318,3709,Bkash,Renewal,Consistent Sales
+2025-08-10,Rafiul,4696,1898,1668,6594,6364,Cash,Renewal,Promo Offer
+2025-08-10,Zawad,4688,3327,2051,8015,6739,Card,Renewal,Due Cleared
+2025-08-10,Mahmud,4770,2309,2123,7079,6893,Cash,Renewal,Due Cleared
+2025-08-11,Rafiul,4456,1972,1341,6428,5797,Cash,Renewal,Due Cleared
+2025-08-11,Zawad,2810,2275,2265,5085,5075,Card,New Admission,Early Payment
+2025-08-11,Mahmud,1848,1662,1849,3510,3697,Card,New Admission,Early Payment
+2025-08-12,Rafiul,2212,3366,1860,5578,4072,Cash,Renewal,Consistent Sales
+2025-08-12,Zawad,2530,3825,1570,6355,4100,Bkash,New Admission,Early Payment
+2025-08-12,Mahmud,3317,1842,850,5159,4167,Bkash,New Admission,Returning Student
+2025-08-13,Rafiul,2987,2255,1063,5242,4050,Bkash,Renewal,Returning Student
+2025-08-13,Zawad,3461,3243,1443,6704,4904,Bkash,Renewal,Due Cleared
+2025-08-13,Mahmud,2797,3891,1693,6688,4490,Cash,Renewal,Consistent Sales
+2025-08-14,Rafiul,1761,1903,1358,3664,3119,Card,New Admission,Regular Batch
+2025-08-14,Zawad,3171,3914,1270,7085,4441,Bkash,Renewal,Consistent Sales
+2025-08-14,Mahmud,4816,3980,1718,8796,6534,Cash,Renewal,Promo Offer
+2025-08-15,Rafiul,3103,2140,928,5243,4031,Card,New Admission,Promo Offer
+2025-08-15,Zawad,4657,3159,1035,7816,5692,Bkash,Renewal,Consistent Sales
+2025-08-15,Mahmud,3189,1142,1403,4331,4592,Card,New Admission,Early Payment
+2025-08-16,Rafiul,2994,1752,1867,4746,4861,Cash,New Admission,Due Cleared
+2025-08-16,Zawad,3159,1885,1366,5044,4525,Card,New Admission,Consistent Sales
+2025-08-16,Mahmud,1743,2369,2431,4112,4174,Card,Renewal,Early Payment
+2025-08-17,Rafiul,2977,1514,1208,4491,4185,Cash,New Admission,Consistent Sales
+2025-08-17,Zawad,4185,1160,707,5345,4892,Card,Renewal,Consistent Sales
+2025-08-17,Mahmud,1862,3925,986,5787,2848,Bkash,New Admission,Early Payment
+2025-08-18,Rafiul,2403,3130,1248,5533,3651,Bkash,Renewal,Regular Batch
+2025-08-18,Zawad,2005,1282,2312,3287,4317,Bkash,Renewal,Promo Offer
+2025-08-18,Mahmud,2193,3368,793,5561,2986,Bkash,New Admission,Consistent Sales
+2025-08-19,Rafiul,2015,2697,2039,4712,4054,Cash,Renewal,Early Payment
+2025-08-19,Zawad,3552,1342,633,4894,4185,Cash,Renewal,Promo Offer
+2025-08-19,Mahmud,3850,1473,2272,5323,6122,Cash,Renewal,Due Cleared
+2025-08-20,Rafiul,3626,1814,1708,5440,5334,Card,New Admission,Consistent Sales
+2025-08-20,Zawad,2480,1575,500,4055,2980,Bkash,New Admission,Early Payment
+2025-08-20,Mahmud,3026,1554,861,4580,3887,Cash,Renewal,Due Cleared
+2025-08-21,Rafiul,4532,3333,1108,7865,5640,Bkash,Renewal,Consistent Sales
+2025-08-21,Zawad,2261,2049,2221,4310,4482,Card,Renewal,Due Cleared
+2025-08-21,Mahmud,3290,2767,2313,6057,5603,Bkash,New Admission,Due Cleared
+2025-08-22,Rafiul,4262,2726,1747,6988,6009,Cash,New Admission,Consistent Sales
+2025-08-22,Zawad,4334,3876,1336,8210,5670,Cash,Renewal,Early Payment
+2025-08-22,Mahmud,4865,2349,2040,7214,6905,Card,New Admission,Consistent Sales
+2025-08-23,Rafiul,2609,1028,1507,3637,4116,Card,New Admission,Consistent Sales
+2025-08-23,Zawad,4009,2796,2284,6805,6293,Card,New Admission,Regular Batch
+2025-08-23,Mahmud,3653,2541,1012,6194,4665,Card,New Admission,Early Payment
+2025-08-24,Rafiul,3480,2067,2487,5547,5967,Cash,Renewal,Consistent Sales
+2025-08-24,Zawad,2163,2346,1377,4509,3540,Bkash,New Admission,Consistent Sales
+2025-08-24,Mahmud,2120,3879,926,5999,3046,Card,Renewal,Regular Batch
+2025-08-25,Rafiul,2860,2059,1360,4919,4220,Bkash,New Admission,Consistent Sales
+2025-08-25,Zawad,4861,2579,837,7440,5698,Card,Renewal,Consistent Sales
+2025-08-25,Mahmud,4623,2348,1145,6971,5768,Cash,New Admission,Due Cleared
+2025-08-26,Rafiul,1976,1242,942,3218,2918,Bkash,New Admission,Promo Offer
+2025-08-26,Zawad,1772,2979,1195,4751,2967,Cash,New Admission,Returning Student
+2025-08-26,Mahmud,4578,3113,1142,7691,5720,Cash,New Admission,Promo Offer
+2025-08-27,Rafiul,4120,2695,651,6815,4771,Cash,Renewal,Consistent Sales
+2025-08-27,Zawad,4253,1759,2224,6012,6477,Card,Renewal,Due Cleared
+2025-08-27,Mahmud,3720,1398,1320,5118,5040,Card,Renewal,Regular Batch
+2025-08-28,Rafiul,4571,2619,1686,7190,6257,Card,New Admission,Promo Offer
+2025-08-28,Zawad,4403,1954,1971,6357,6374,Card,New Admission,Returning Student
+2025-08-28,Mahmud,4139,1864,1087,6003,5226,Cash,New Admission,Consistent Sales
+2025-08-29,Rafiul,3664,1623,1854,5287,5518,Card,Renewal,Consistent Sales
+2025-08-29,Zawad,1597,3857,2380,5454,3977,Card,New Admission,Due Cleared
+2025-08-29,Mahmud,4622,2853,1253,7475,5875,Card,New Admission,Consistent Sales
+2025-08-30,Rafiul,4577,2677,1939,7254,6516,Card,New Admission,Regular Batch
+2025-08-30,Zawad,2742,2835,1804,5577,4546,Card,New Admission,Due Cleared
+2025-08-30,Mahmud,3842,1250,2270,5092,6112,Card,Renewal,Promo Offer
+2025-08-31,Rafiul,2987,1086,1012,4073,3999,Cash,Renewal,Promo Offer
+2025-08-31,Zawad,2141,1318,1175,3459,3316,Bkash,Renewal,Returning Student
+2025-08-31,Mahmud,4768,1663,1440,6431,6208,Bkash,Renewal,Promo Offer
+2025-09-01,Rafiul,2533,2586,1116,5119,3649,Cash,Renewal,Early Payment
+2025-09-01,Zawad,1533,1979,990,3512,2523,Card,Renewal,Consistent Sales
+2025-09-01,Mahmud,2278,1134,734,3412,3012,Card,New Admission,Returning Student
+2025-09-02,Rafiul,4667,3054,790,7721,5457,Cash,Renewal,Returning Student
+2025-09-02,Zawad,1809,3610,1613,5419,3422,Bkash,New Admission,Due Cleared
+2025-09-02,Mahmud,2538,3708,1787,6246,4325,Cash,New Admission,Promo Offer
+2025-09-03,Rafiul,4479,1709,1363,6188,5842,Card,Renewal,Consistent Sales
+2025-09-03,Zawad,2841,3506,2450,6347,5291,Card,Renewal,Early Payment
+2025-09-03,Mahmud,2321,3305,738,5626,3059,Cash,Renewal,Promo Offer
+2025-09-04,Rafiul,3743,2309,658,6052,4401,Card,New Admission,Early Payment
+2025-09-04,Zawad,2317,3452,1756,5769,4073,Bkash,New Admission,Due Cleared
+2025-09-04,Mahmud,1821,3596,2007,5417,3828,Bkash,New Admission,Returning Student
+2025-09-05,Rafiul,4814,3102,1567,7916,6381,Bkash,Renewal,Early Payment
+2025-09-05,Zawad,3159,3021,900,6180,4059,Bkash,Renewal,Early Payment
+2025-09-05,Mahmud,1671,1085,2159,2756,3830,Cash,New Admission,Regular Batch
+2025-09-06,Rafiul,3801,1943,1891,5744,5692,Cash,Renewal,Consistent Sales
+2025-09-06,Zawad,3346,1252,788,4598,4134,Card,New Admission,Promo Offer
+2025-09-06,Mahmud,4522,2404,2346,6926,6868,Card,New Admission,Promo Offer
+2025-09-07,Rafiul,2762,1883,1316,4645,4078,Bkash,New Admission,Early Payment
+2025-09-07,Zawad,4162,2459,2188,6621,6350,Bkash,New Admission,Regular Batch
+2025-09-07,Mahmud,2905,3600,1311,6505,4216,Cash,Renewal,Consistent Sales
+2025-09-08,Rafiul,4519,2054,1540,6573,6059,Card,New Admission,Regular Batch
+2025-09-08,Zawad,4476,3615,2368,8091,6844,Cash,New Admission,Due Cleared
+2025-09-08,Mahmud,1601,2099,1415,3700,3016,Card,Renewal,Returning Student
+2025-09-09,Rafiul,4687,1661,1966,6348,6653,Card,Renewal,Early Payment
+2025-09-09,Zawad,4058,1402,2426,5460,6484,Cash,Renewal,Regular Batch
+2025-09-09,Mahmud,2568,1590,1718,4158,4286,Bkash,Renewal,Consistent Sales
+2025-09-10,Rafiul,4455,2735,545,7190,5000,Card,New Admission,Due Cleared
+2025-09-10,Zawad,2850,2357,869,5207,3719,Bkash,Renewal,Early Payment
+2025-09-10,Mahmud,2635,2337,516,4972,3151,Cash,New Admission,Consistent Sales
+2025-09-11,Rafiul,2547,2322,1716,4869,4263,Card,Renewal,Consistent Sales
+2025-09-11,Zawad,4873,3639,1617,8512,6490,Card,New Admission,Returning Student
+2025-09-11,Mahmud,2687,1647,2378,4334,5065,Card,New Admission,Returning Student
+2025-09-12,Rafiul,2435,3688,814,6123,3249,Bkash,New Admission,Promo Offer
+2025-09-12,Zawad,1685,3966,1446,5651,3131,Card,New Admission,Promo Offer
+2025-09-12,Mahmud,2033,3665,2023,5698,4056,Cash,Renewal,Promo Offer
+2025-09-13,Rafiul,4018,2423,1312,6441,5330,Bkash,Renewal,Due Cleared
+2025-09-13,Zawad,2559,1387,1697,3946,4256,Cash,New Admission,Consistent Sales
+2025-09-13,Mahmud,1934,1966,1131,3900,3065,Card,New Admission,Promo Offer
+2025-09-14,Rafiul,1843,1959,1066,3802,2909,Cash,New Admission,Promo Offer
+2025-09-14,Zawad,3645,1826,1486,5471,5131,Card,New Admission,Consistent Sales
+2025-09-14,Mahmud,4766,1574,2026,6340,6792,Cash,New Admission,Early Payment
+2025-09-15,Rafiul,3250,1847,1971,5097,5221,Card,Renewal,Consistent Sales
+2025-09-15,Zawad,4126,1235,1773,5361,5899,Cash,New Admission,Promo Offer
+2025-09-15,Mahmud,2385,1876,703,4261,3088,Bkash,New Admission,Promo Offer
+2025-09-16,Rafiul,3243,2807,747,6050,3990,Bkash,New Admission,Returning Student
+2025-09-16,Zawad,3565,2108,709,5673,4274,Bkash,Renewal,Consistent Sales
+2025-09-16,Mahmud,3198,2957,1739,6155,4937,Bkash,New Admission,Early Payment
+2025-09-17,Rafiul,3393,2347,772,5740,4165,Bkash,New Admission,Promo Offer
+2025-09-17,Zawad,3777,3468,931,7245,4708,Card,New Admission,Due Cleared
+2025-09-17,Mahmud,4522,3476,634,7998,5156,Card,New Admission,Consistent Sales
+2025-09-18,Rafiul,2121,1832,1662,3953,3783,Bkash,Renewal,Consistent Sales
+2025-09-18,Zawad,1931,3319,1261,5250,3192,Bkash,Renewal,Due Cleared
+2025-09-18,Mahmud,4729,2031,2405,6760,7134,Card,New Admission,Consistent Sales
+2025-09-19,Rafiul,4617,2501,1840,7118,6457,Bkash,New Admission,Returning Student
+2025-09-19,Zawad,2444,3352,1280,5796,3724,Bkash,Renewal,Due Cleared
+2025-09-19,Mahmud,3498,3474,958,6972,4456,Card,Renewal,Early Payment
+2025-09-20,Rafiul,3797,2844,1256,6641,5053,Card,Renewal,Regular Batch
+2025-09-20,Zawad,4579,3950,1530,8529,6109,Cash,Renewal,Returning Student
+2025-09-20,Mahmud,3624,3739,787,7363,4411,Bkash,Renewal,Returning Student
+2025-09-21,Rafiul,4435,1051,1422,5486,5857,Cash,Renewal,Early Payment
+2025-09-21,Zawad,4343,1578,996,5921,5339,Card,New Admission,Consistent Sales
+2025-09-21,Mahmud,3130,1549,2418,4679,5548,Card,Renewal,Returning Student
+2025-09-22,Rafiul,1903,3261,501,5164,2404,Bkash,Renewal,Due Cleared
+2025-09-22,Zawad,3294,3465,613,6759,3907,Cash,Renewal,Promo Offer
+2025-09-22,Mahmud,1588,2627,1520,4215,3108,Card,New Admission,Consistent Sales
+2025-09-23,Rafiul,1895,2095,1979,3990,3874,Bkash,Renewal,Early Payment
+2025-09-23,Zawad,2347,3502,2178,5849,4525,Bkash,Renewal,Returning Student
+2025-09-23,Mahmud,4588,1292,2498,5880,7086,Cash,Renewal,Returning Student
+2025-09-24,Rafiul,4547,1216,1528,5763,6075,Cash,Renewal,Regular Batch
+2025-09-24,Zawad,1907,3517,1760,5424,3667,Card,Renewal,Due Cleared
+2025-09-24,Mahmud,4258,1222,2340,5480,6598,Cash,Renewal,Regular Batch
+2025-09-25,Rafiul,3000,3229,2043,6229,5043,Card,New Admission,Returning Student
+2025-09-25,Zawad,4371,1748,768,6119,5139,Card,New Admission,Early Payment
+2025-09-25,Mahmud,4366,1479,2203,5845,6569,Card,New Admission,Due Cleared
+2025-09-26,Rafiul,2944,3086,1581,6030,4525,Bkash,Renewal,Consistent Sales
+2025-09-26,Zawad,3671,1274,2248,4945,5919,Card,Renewal,Returning Student
+2025-09-26,Mahmud,2473,1419,1427,3892,3900,Cash,Renewal,Returning Student
+2025-09-27,Rafiul,2616,1964,2349,4580,4965,Bkash,New Admission,Early Payment
+2025-09-27,Zawad,1884,1703,2249,3587,4133,Card,New Admission,Early Payment
+2025-09-27,Mahmud,3650,1402,1567,5052,5217,Bkash,New Admission,Consistent Sales
+2025-09-28,Rafiul,4489,2818,781,7307,5270,Bkash,New Admission,Promo Offer
+2025-09-28,Zawad,4063,1604,2124,5667,6187,Card,Renewal,Consistent Sales
+2025-09-28,Mahmud,4547,3848,2475,8395,7022,Cash,New Admission,Regular Batch
+2025-09-29,Rafiul,3373,3789,1711,7162,5084,Bkash,Renewal,Early Payment
+2025-09-29,Zawad,2312,2703,1006,5015,3318,Cash,Renewal,Promo Offer
+2025-09-29,Mahmud,4060,2369,1951,6429,6011,Bkash,New Admission,Consistent Sales
+2025-09-30,Rafiul,1697,2557,2188,4254,3885,Cash,New Admission,Due Cleared
+2025-09-30,Zawad,3841,1475,1871,5316,5712,Cash,New Admission,Due Cleared
+2025-09-30,Mahmud,3103,1393,515,4496,3618,Card,New Admission,Promo Offer
+2025-10-01,Rafiul,3557,1298,704,4855,4261,Cash,New Admission,Regular Batch
+2025-10-01,Zawad,2440,3923,2381,6363,4821,Bkash,New Admission,Consistent Sales
+2025-10-01,Mahmud,4997,1510,1698,6507,6695,Cash,New Admission,Early Payment
+2025-10-02,Rafiul,2075,3027,975,5102,3050,Bkash,New Admission,Promo Offer
+2025-10-02,Zawad,3588,3424,2461,7012,6049,Card,New Admission,Consistent Sales
+2025-10-02,Mahmud,4022,3321,1602,7343,5624,Bkash,New Admission,Early Payment
+2025-10-03,Rafiul,2894,3889,507,6783,3401,Card,Renewal,Promo Offer
+2025-10-03,Zawad,1939,2870,1832,4809,3771,Card,New Admission,Regular Batch
+2025-10-03,Mahmud,4572,1642,967,6214,5539,Cash,Renewal,Early Payment
+2025-10-04,Rafiul,2138,3568,1421,5706,3559,Cash,New Admission,Regular Batch
+2025-10-04,Zawad,1661,3535,1085,5196,2746,Cash,Renewal,Regular Batch
+2025-10-04,Mahmud,4642,1561,1219,6203,5861,Bkash,Renewal,Due Cleared
+2025-10-05,Rafiul,3035,3419,877,6454,3912,Cash,New Admission,Promo Offer
+2025-10-05,Zawad,2395,1676,1638,4071,4033,Cash,New Admission,Regular Batch
+2025-10-05,Mahmud,1942,2092,1141,4034,3083,Card,Renewal,Early Payment
+2025-10-06,Rafiul,4929,2509,2150,7438,7079,Bkash,New Admission,Returning Student
+2025-10-06,Zawad,2649,3186,1808,5835,4457,Card,New Admission,Due Cleared
+2025-10-06,Mahmud,4445,1008,1804,5453,6249,Bkash,Renewal,Promo Offer
+2025-10-07,Rafiul,2358,3908,1549,6266,3907,Card,New Admission,Consistent Sales
+2025-10-07,Zawad,4914,2016,1489,6930,6403,Bkash,New Admission,Returning Student
+2025-10-07,Mahmud,4700,3042,1237,7742,5937,Cash,New Admission,Regular Batch
+2025-10-08,Rafiul,1921,2477,1117,4398,3038,Cash,New Admission,Promo Offer
+2025-10-08,Zawad,2997,3128,796,6125,3793,Cash,New Admission,Due Cleared
+2025-10-08,Mahmud,3661,3452,1776,7113,5437,Card,New Admission,Due Cleared
+2025-10-09,Rafiul,3849,1551,523,5400,4372,Bkash,Renewal,Early Payment
+2025-10-09,Zawad,1876,1941,1933,3817,3809,Card,Renewal,Promo Offer
+2025-10-09,Mahmud,2463,3617,1576,6080,4039,Card,Renewal,Regular Batch
+2025-10-10,Rafiul,4913,1963,946,6876,5859,Card,Renewal,Promo Offer
+2025-10-10,Zawad,3455,1553,2479,5008,5934,Card,New Admission,Early Payment
+2025-10-10,Mahmud,2001,1128,806,3129,2807,Bkash,New Admission,Promo Offer
+2025-10-11,Rafiul,4509,3390,1299,7899,5808,Card,New Admission,Returning Student
+2025-10-11,Zawad,2839,3039,1224,5878,4063,Cash,New Admission,Consistent Sales
+2025-10-11,Mahmud,1567,3582,978,5149,2545,Card,New Admission,Returning Student
+2025-10-12,Rafiul,2427,2810,1689,5237,4116,Bkash,New Admission,Returning Student
+2025-10-12,Zawad,3295,2661,2177,5956,5472,Cash,Renewal,Consistent Sales
+2025-10-12,Mahmud,4547,2250,1094,6797,5641,Bkash,Renewal,Consistent Sales
+2025-10-13,Rafiul,3106,1162,926,4268,4032,Card,New Admission,Returning Student
+2025-10-13,Zawad,3691,2469,2275,6160,5966,Cash,New Admission,Consistent Sales
+2025-10-13,Mahmud,3187,2322,2269,5509,5456,Cash,New Admission,Regular Batch
+2025-10-14,Rafiul,4876,3944,644,8820,5520,Cash,Renewal,Regular Batch
+2025-10-14,Zawad,4933,4000,1579,8933,6512,Bkash,New Admission,Regular Batch
+2025-10-14,Mahmud,1887,1529,1982,3416,3869,Bkash,New Admission,Due Cleared
+2025-10-15,Rafiul,3008,1822,1921,4830,4929,Card,Renewal,Consistent Sales
+2025-10-15,Zawad,2133,1986,2483,4119,4616,Cash,Renewal,Regular Batch
+2025-10-15,Mahmud,3006,3808,1349,6814,4355,Bkash,Renewal,Regular Batch
+2025-10-16,Rafiul,1769,1628,1586,3397,3355,Card,Renewal,Early Payment
+2025-10-16,Zawad,3178,3048,929,6226,4107,Bkash,New Admission,Promo Offer
+2025-10-16,Mahmud,3345,2245,2473,5590,5818,Cash,New Admission,Returning Student
+2025-10-17,Rafiul,3985,1595,2069,5580,6054,Cash,New Admission,Regular Batch
+2025-10-17,Zawad,1553,1028,1966,2581,3519,Bkash,Renewal,Returning Student
+2025-10-17,Mahmud,4229,3647,1451,7876,5680,Cash,Renewal,Regular Batch
+2025-10-18,Rafiul,4399,3888,2156,8287,6555,Bkash,Renewal,Early Payment
+2025-10-18,Zawad,3955,3387,969,7342,4924,Cash,Renewal,Due Cleared
+2025-10-18,Mahmud,3227,1874,1810,5101,5037,Bkash,Renewal,Due Cleared
+2025-10-19,Rafiul,4491,3214,1083,7705,5574,Cash,Renewal,Promo Offer
+2025-10-19,Zawad,3242,1823,614,5065,3856,Card,New Admission,Early Payment
+2025-10-19,Mahmud,4483,1050,1266,5533,5749,Card,New Admission,Early Payment
+2025-10-20,Rafiul,4424,1371,960,5795,5384,Card,Renewal,Regular Batch
+2025-10-20,Zawad,2989,2743,1314,5732,4303,Cash,New Admission,Regular Batch
+2025-10-20,Mahmud,3599,3090,1851,6689,5450,Cash,New Admission,Early Payment
+2025-10-21,Rafiul,4048,2504,1808,6552,5856,Cash,New Admission,Early Payment
+2025-10-21,Zawad,2160,2367,1732,4527,3892,Card,New Admission,Promo Offer
+2025-10-21,Mahmud,3339,3146,522,6485,3861,Bkash,Renewal,Consistent Sales
+2025-10-22,Rafiul,2578,3514,1903,6092,4481,Bkash,New Admission,Due Cleared
+2025-10-22,Zawad,4788,2568,1289,7356,6077,Cash,New Admission,Returning Student
+2025-10-22,Mahmud,2443,2766,1625,5209,4068,Bkash,Renewal,Consistent Sales
+2025-10-23,Rafiul,2408,1039,613,3447,3021,Card,Renewal,Regular Batch
+2025-10-23,Zawad,3678,2768,1237,6446,4915,Bkash,New Admission,Early Payment
+2025-10-23,Mahmud,4397,3920,1701,8317,6098,Cash,Renewal,Due Cleared
+2025-10-24,Rafiul,3108,1938,2246,5046,5354,Card,New Admission,Early Payment
+2025-10-24,Zawad,4974,2113,2375,7087,7349,Cash,New Admission,Returning Student
+2025-10-24,Mahmud,2754,1100,1608,3854,4362,Bkash,New Admission,Returning Student
+2025-10-25,Rafiul,4271,1409,505,5680,4776,Cash,New Admission,Early Payment
+2025-10-25,Zawad,3177,1737,1322,4914,4499,Card,Renewal,Due Cleared
+2025-10-25,Mahmud,2421,3099,1381,5520,3802,Card,Renewal,Early Payment
+2025-10-26,Rafiul,2800,2356,2216,5156,5016,Cash,New Admission,Regular Batch
+2025-10-26,Zawad,3677,2062,1383,5739,5060,Card,New Admission,Returning Student
+2025-10-26,Mahmud,4311,2030,1049,6341,5360,Card,New Admission,Early Payment
+2025-10-27,Rafiul,2488,1178,1899,3666,4387,Card,New Admission,Due Cleared
+2025-10-27,Zawad,4074,2676,2482,6750,6556,Card,Renewal,Regular Batch
+2025-10-27,Mahmud,1988,2747,1783,4735,3771,Card,New Admission,Due Cleared
+2025-10-28,Rafiul,1529,2541,1899,4070,3428,Cash,New Admission,Regular Batch
+2025-10-28,Zawad,4617,2743,1607,7360,6224,Cash,New Admission,Consistent Sales
+2025-10-28,Mahmud,1883,2667,1214,4550,3097,Bkash,New Admission,Regular Batch
+2025-10-29,Rafiul,1837,2307,941,4144,2778,Cash,New Admission,Regular Batch
+2025-10-29,Zawad,2603,2724,944,5327,3547,Card,New Admission,Due Cleared
+2025-10-29,Mahmud,4704,2111,506,6815,5210,Bkash,Renewal,Promo Offer
